@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1475552371 source:c:\users\user\documents\school\fall 2016\cs1\fibonacci\fib\fibonacci.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"Fibonacci.h"
+
+1475171168 c:\users\user\documents\school\fall 2016\cs1\fibonacci\fib\fibonacci.h
+
